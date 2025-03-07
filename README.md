@@ -1,4 +1,4 @@
-Hi, I’m Tim
+Hi, I’m Tim.
 I’m mainly interested in theoretical physics and mathematics. I'm also interested in computer graphics, game development and computational physics.
 I’m looking to collaborate on computer graphics projects.
 Currently working on path tracing, terraria modding and financial tech.
