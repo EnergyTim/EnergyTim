@@ -1,9 +1,9 @@
 # Hi, I’m Tim!
-I'm a passionate starting theoretical physicist and mathematician. I'm a fan of physics and mathmatics problem solving and I like to code.
+I'm a passionate aspiring theoretical physicist and mathematician. I'm a fan of physics and mathematics problem solving, and I like to code.
 
 ## What I like to do:
 
-**Theoretical Physics ⚛️**: I like all of physics and I really enjoy applying mathmatics in physics.
+**Theoretical Physics ⚛️**: I like all of physics and really enjoy applying mathematics in physics.
 
 **Applied Mathematics 📈**: I like applying mathematics everywhere, from physics to finance and other fields.
 
@@ -19,7 +19,7 @@ I'm a passionate starting theoretical physicist and mathematician. I'm a fan of 
 
 **- Game Development**
 
-**- Quintative Finance**
+**- Quantitative Finance**
 
 **and more coming soon**
 
